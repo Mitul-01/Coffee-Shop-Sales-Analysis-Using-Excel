@@ -1,0 +1,1 @@
+Welcome to the project for Coffee Shop Sales Analysis! The main goal of this repository is to provide a thorough study of sales data at coffee shops using Excel. Discover information on customer preferences, revenue patterns, and best-selling items.
